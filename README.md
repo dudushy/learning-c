@@ -1,3 +1,3 @@
+```bash
+bash run.sh
 ```
-gcc hello.c -o hello
-./hello
